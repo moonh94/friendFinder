@@ -1,0 +1,28 @@
+.jumbotron {
+    margin: 0px 50px 0px 50px;
+}
+
+.container2 {
+    padding: 20px 150px 0px 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    
+    
+}
+.chosen-select{
+     font-size: 16px;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+
+}
+
+footer{
+    padding: 0px 150px 0px 150px;
+}
+
+.footer1 {
+    padding: 0px 50px 0px 50px;
+}
